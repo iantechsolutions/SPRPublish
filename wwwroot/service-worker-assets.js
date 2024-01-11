@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-YhSzILWxNza\/OD3c5oXGSQz+OWtYfmhXt9eOD\/TcDUY=",
+      "hash": "sha256-3AtFtq87ojCF5M9v+WKjPUCYV\/Jgo82dyR8SQyCxMHI=",
       "url": "PaginaToros.Client.styles.css"
     },
     {
@@ -73,7 +73,7 @@
       "url": "images\/cargando.gif"
     },
     {
-      "hash": "sha256-HrVcAvMMgT\/yxj\/elQpq7959d22LZrJN\/rnL6SILDQ4=",
+      "hash": "sha256-ehV7Umo7GD4roHLgIzsbTfcvSQBYBWAvDwz4EfzGw\/Y=",
       "url": "images\/logo.png"
     },
     {
@@ -121,7 +121,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-4stGy\/W0aZ0zIlLUL8JYcDJVYEV49zPEvh3hWdHkwZE=",
+      "hash": "sha256-OtWV6t6q7yVR+vfAd5bBOmV\/82jNO0j3t+aLlsY+fQE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -309,11 +309,11 @@
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
-      "hash": "sha256-t9wGQPOIxMSpzt2R5t4OsXsKwQ0y7kC+rfJTsEWmZhw=",
+      "hash": "sha256-iivXsDIdwhKZDhyFdS4eDvv8Rxgm8r+OMCQil0SdaNg=",
       "url": "_framework\/PaginaToros.Client.dll"
     },
     {
-      "hash": "sha256-PllIflrfZILL6aEnwTFbuTkuAPDcA0LPxZcXlKkkRL4=",
+      "hash": "sha256-vocQb85ogotSDGol+htxDTJiFqdYjvB1ysEbc88Ebx4=",
       "url": "_framework\/PaginaToros.Shared.dll"
     },
     {
@@ -357,7 +357,7 @@
       "url": "_framework\/System.ComponentModel.TypeConverter.dll"
     },
     {
-      "hash": "sha256-WElukj27sGitQueIUn0FZwCmhRqmYamY6LM862E5QQc=",
+      "hash": "sha256-qzwob29BxkWqh\/gU7v7TkqXeGItUiLf6902eVY\/1w7M=",
       "url": "_framework\/System.Console.dll"
     },
     {
@@ -429,7 +429,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-KukmwWlwyLHydm506eolJriFAA4GD\/Cg7Tmtz7F6PdY=",
+      "hash": "sha256-yzKdYOZ2lPf7bvfHS+GGmP8PYl+ZfeR4A95wKnyF7ig=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -865,5 +865,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "4fGC\/VqJ"
+  "version": "u91Mh08Q"
 };
