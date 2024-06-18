@@ -133,7 +133,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-BqghlHy43xwQutoKpBAi7Nr6FR5dL5HJFBxamGWC4Ys=",
+      "hash": "sha256-EdCocLIAbjhiE9Z3clyHmGwMdcY07nBtLf3YczmUd5s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -321,7 +321,7 @@
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
-      "hash": "sha256-GuAwCPuvX1ur6nVb8KpPlCBPIgBGkQQLOs7Q1CjlIZI=",
+      "hash": "sha256-tK8celPJi9\/oILTtWxX7NjPcOFUVDdR4+AES0wsMfWc=",
       "url": "_framework\/PaginaToros.Client.dll"
     },
     {
@@ -369,7 +369,7 @@
       "url": "_framework\/System.ComponentModel.TypeConverter.dll"
     },
     {
-      "hash": "sha256-n6pLI1rBshgxoDCh7DAEv9L1lMSFQgIF6N\/m7u6P+K4=",
+      "hash": "sha256-R6nqq5IZS7WOKPWgqTXT4EDowD34w\/zhWBldCy\/KrCU=",
       "url": "_framework\/System.Console.dll"
     },
     {
@@ -441,7 +441,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-cfsxbUGjw0DF0Kbbw5xGUMGJVrX2xEp8MM1Tlfd9vKg=",
+      "hash": "sha256-kp9iCFyRSfBRlsjijMJNtD47J+nxANushoLIMgpD9n4=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -877,5 +877,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "9ukVTx9m"
+  "version": "k+I1\/E01"
 };
