@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "JFMdAVuL",
+  "version": "ZRAuXgAI",
   "assets": [
     {
       "hash": "sha256-keRcTxI0vPUrJrbph1n2C8V1qK7iU66XrxN+SCmPfWk=",
@@ -526,7 +526,7 @@ self.assetsManifest = {
       "url": "_framework/Newtonsoft.Json.dll"
     },
     {
-      "hash": "sha256-R78DvIOGqdN2P/+i12gAc5xjxOntxIaUqiGJ5cIeoL0=",
+      "hash": "sha256-+K0JxW8HadD4/DXvF4otBl0+QlJys/YY8mR7H8A1BUU=",
       "url": "_framework/PaginaToros.Client.dll"
     },
     {
@@ -678,7 +678,7 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Http.Json.dll"
     },
     {
-      "hash": "sha256-d5rz+d+DURFBCsMF3EdaJNFoiPTA2Oaj55rtuTDejfk=",
+      "hash": "sha256-Q0seIw+WxSxMnaNWtgQU98Wcrjc+Aayt2/9RQFgfvOc=",
       "url": "_framework/System.Net.Http.dll"
     },
     {
@@ -774,7 +774,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.Serialization.Primitives.dll"
     },
     {
-      "hash": "sha256-4J8x+f2orb5CEqZb+RBzIVCiEFj3LsLsbM0xPrLIsMQ=",
+      "hash": "sha256-loRSAP1AAtVE9W0+SOIidLqQDPve2yUj/hXg74rYGZM=",
       "url": "_framework/System.Runtime.dll"
     },
     {
@@ -866,7 +866,7 @@ self.assetsManifest = {
       "url": "_framework/System.dll"
     },
     {
-      "hash": "sha256-+98k7SCePRyn9K8FwvX9avFtb5zsf3ggrZSI4UNssx0=",
+      "hash": "sha256-ld57n6cBftvvIRzL3j8XDjL62Z1pFuKfZfDR2lnM11w=",
       "url": "_framework/blazor.boot.json"
     },
     {
