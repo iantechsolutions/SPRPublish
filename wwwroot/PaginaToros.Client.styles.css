@@ -526,6 +526,29 @@ td[b-dnbenaiutx] {
         page-break-inside: avoid;
     }
 }
+/* /Shared/Filters/SearchInput.razor.rz.scp.css */
+.filter-search[b-iaqyi1i4ft] {
+    display: flex;
+    gap: .4rem;
+    align-items: center;
+    width: 100%;
+}
+
+.filter-search > .form-control[b-iaqyi1i4ft] {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.filter-search-clear[b-iaqyi1i4ft],
+.filter-search-status[b-iaqyi1i4ft] {
+    white-space: nowrap;
+}
+
+.filter-search-status[b-iaqyi1i4ft] {
+    color: #2563eb;
+    font-size: .8rem;
+    font-weight: 600;
+}
 /* /Shared/NavMenu.razor.rz.scp.css */
 .main-navbar[b-uy3i3vcno8] {
     position: relative;
