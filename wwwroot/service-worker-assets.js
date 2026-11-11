@@ -53,6 +53,10 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
+      "hash": "sha256-IN2EzjAqZuk0ake9IbZzeHO\/4noecA3RIdFQTVH3voo=",
+      "url": "css\/page-layout.css"
+    },
+    {
       "hash": "sha256-X+9ptNPRw7kWdKuyounQndZsvv23IYaCMeBSFRkmWhA=",
       "url": "favicon.ico"
     },
@@ -97,7 +101,7 @@
       "url": "images\/mantenimiento.png"
     },
     {
-      "hash": "sha256-JUgukfZ9m+CAJP26WXjXswCc3t+SFU4RqJ2g8dOn0kU=",
+      "hash": "sha256-EcEYB7XBLDKPYji9h76WN82sJrwvB3v+ZMx3vDG6UKY=",
       "url": "index.html"
     },
     {
@@ -137,7 +141,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-04eJTgzGE7LtqbgigIvpKKnh1z0x4RooX\/MEVBX\/eSE=",
+      "hash": "sha256-VSEvZTnPa1jeJjDFFqPgARGbYRIBhhaH4AaY3eRcqgQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -373,7 +377,7 @@
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
-      "hash": "sha256-UVwxJi4iybLx6hK5zqZ84VTVeiwpvEM0xSyWDUUaDGQ=",
+      "hash": "sha256-m8d+V+9Po1e5xumI14tIQ8QlG8XpD3EmrblbA+eDbig=",
       "url": "_framework\/PaginaToros.Client.dll"
     },
     {
@@ -997,5 +1001,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "6dBte1vk"
+  "version": "mzLySw3j"
 };
