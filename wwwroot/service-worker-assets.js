@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-pvaJY+JXiv\/IcUPOFvHrchZA05jshT3AgExd6XPA1Ew=",
+      "hash": "sha256-jKSxW+pI3rucnMOsd\/t5ZPaHKRo1UwAR+BDs7R\/YlgM=",
       "url": "PaginaToros.Client.styles.css"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-jBlWNNUYK0kl0hg3HGO1elez1C6KQfXoBeX+lijwhrM=",
+      "hash": "sha256-04eJTgzGE7LtqbgigIvpKKnh1z0x4RooX\/MEVBX\/eSE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -373,11 +373,11 @@
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
-      "hash": "sha256-9gS2EI1o0\/R6Dq6TjEvMtE3tzxtQQ51K5KN\/hknCZtU=",
+      "hash": "sha256-UVwxJi4iybLx6hK5zqZ84VTVeiwpvEM0xSyWDUUaDGQ=",
       "url": "_framework\/PaginaToros.Client.dll"
     },
     {
-      "hash": "sha256-k8tu2++5X13LvvTXh+CCPW2AbLDqjbsUsV2+3l1NiZc=",
+      "hash": "sha256-pqGM5dOhbsGIyXltNT\/4TFrobTg9eO3U1AiD8sCKtFc=",
       "url": "_framework\/PaginaToros.Shared.dll"
     },
     {
@@ -997,5 +997,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "Yxad1Iqf"
+  "version": "6dBte1vk"
 };
