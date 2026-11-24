@@ -5,7 +5,7 @@
       "url": "PaginaToros.Client.styles.css"
     },
     {
-      "hash": "sha256-GL+ZzejMaK9LrSh6EklMn9qTOkq56JyfEhMJMHgaA\/0=",
+      "hash": "sha256-W5C5NR3iTpI5xQ9fLpsNuxSQlTDozmwpZofEYn5Y2Q4=",
       "url": "css\/app.css"
     },
     {
@@ -1001,5 +1001,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "mzLySw3j"
+  "version": "0ay2mexJ"
 };
